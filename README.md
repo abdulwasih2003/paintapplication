@@ -54,7 +54,7 @@ Publish the website in the given URL.
           background-color: #f4e4fb;
           box-shadow: inset 0 0 5px #b6b6b6; 
           border-radius: 2px;
-          border: 5px solid #c27aeb;
+          border: 5px solid #050505;
         }
         #buttonstyle{
           background-color: #f4e4fb;
@@ -223,7 +223,17 @@ Publish the website in the given URL.
 ~~~
 ## OUTPUT:
 
--- include your output screenshots ---
+## Blank Canvas:
+
+![output](./paintapp/static/img/1.png)
+
+## Canvas with different shapes, colors and sizes:
+
+![output](./paintapp/static/img/2.png)
+
+## Alert box for size change:
+
+![output](./paintapp/static/img/3.png)
 
 ## Result:
 
